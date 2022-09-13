@@ -124,6 +124,7 @@ Use putty
 ```
 
 ## Step-06: Update Worker Nodes Security Group to allow all traffic
+  #with remote access (see securuty gps on the consule)
 - We need to allow `All Traffic` on worker node security group
 
 ## Additional References
